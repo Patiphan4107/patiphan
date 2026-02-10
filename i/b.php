@@ -2,11 +2,11 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>สิรดนัย ชุมพล (โฟกัส)</title>
+<title>ปฏิภาณ พงษ์เพ็ชร(นิว)</title>
 </head>
 
 <body>
-<h1>สิรดนัย ชุมพล (โฟกัส)</h1>
+<h1>ปฏิภาณ พงษ์เพ็ชร(นิว)</h1>
 
 
 <table border="1">
@@ -60,3 +60,4 @@
 </table>
 </body>
 </html>
+
